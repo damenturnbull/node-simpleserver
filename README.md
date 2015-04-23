@@ -1,10 +1,11 @@
-# Simple server with Node
+# node-simpleserver
 
-## Run
+A tiny nodejs server using 'connect' and 'serve-static'. 
+Source: http://stackoverflow.com/questions/6084360/using-node-js-as-a-simple-web-server
 
-Includes small Nodejs server. To run:
+## To run
 
 ### 
     $ node server.js
 
-Browser access through 'localhost' - http://127.0.0.1:8080/
+Browser access: http://127.0.0.1:8080/
